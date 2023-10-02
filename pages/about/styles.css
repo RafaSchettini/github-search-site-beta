@@ -53,7 +53,7 @@ nav {
 }
 
 main {
-  margin-top: 3rem;
+  margin-top: 2rem;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -153,6 +153,7 @@ section {
 @media (max-width: 600px) {
   main {
     padding: 1em;
+    margin-top: 1rem;
   }
 
   .box_nos {

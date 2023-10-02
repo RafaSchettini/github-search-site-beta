@@ -101,3 +101,10 @@ iframe {
   border-radius: 8px;
   flex: 1;
 }
+
+@media (max-width: 600px) {
+  main {
+    margin-top: 1rem;
+    padding: 1em;
+  }
+}
